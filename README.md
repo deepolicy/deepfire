@@ -12,6 +12,6 @@ For more support, please contact with zhouxin12@nudt.edu.cn
 
 ![deepolicy](https://github.com/deepolicy/deepfire/blob/master/assets/explain.png)
 
-![deepolicy](https://github.com/deepolicy/deepfire/blob/master/bf-nn3-0909-1945-1e-5-bs128-1217.reward.png)
+![deepolicy](https://github.com/deepolicy/deepfire/blob/master/assets/bf-nn3-0909-1945-1e-5-bs128-rerun2.reward.png)
 
 ![deepolicy](https://github.com/deepolicy/deepfire/blob/master/assets/battle-field.png)
